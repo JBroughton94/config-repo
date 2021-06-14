@@ -6,7 +6,6 @@ spring:
     mongodb:
       uri: ${vcap.services.${PREFIX:}mongodb.credentials.uri}
 
-test:
-  dynamic:
-    propertyA: false
-    propertyB: true
+stores:
+  a: abcd
+  b: wxyz
