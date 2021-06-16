@@ -4,5 +4,5 @@ spring:
       uri: ${vcap.services.${PREFIX:}mongodb.credentials.uri}
 
 stores:
-  a: abcdefg123456
-  b: tuvwxyz987654
+  a: abcdefg
+  b: tuvwxyz
