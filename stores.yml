@@ -5,4 +5,4 @@ spring:
 
 stores:
   a: new
-  b: tuvwxyz
+  b: testing
